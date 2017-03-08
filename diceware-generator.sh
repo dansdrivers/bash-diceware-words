@@ -1,4 +1,9 @@
 #!/bin/bash
+# Copyright (C) dans drivers - All Rights Reserved
+# Unauthorized copying of this file, via any medium is strictly prohibited
+# Proprietary and confidential
+# Written by dansdrivers 
+# Hosted https://github.com/dansdrivers
 
 LIST=diceware.wordlist.asc
 LIST2=diceware.wordlist.8.asc.txt
